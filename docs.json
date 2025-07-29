@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "HIS Grace",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -11,14 +11,13 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Panduan",
         "groups": [
           {
-            "group": "Mulai Menggunakan Aplikasi",
+            "group": "Memulai",
             "pages": [
               "index",
-              "quickstart",
-              "development"
+              "quickstart"
             ]
           },
           {
